@@ -10,7 +10,7 @@ Technically, this works the same way as user bannishment.
 
 
 ## History
- - 1.8.0 : New versionning
+ - 1.12.0 : New versionning
  - 0.2 : 20150505 - Fully functional version
 	 - listing page
 	 - preview page (groups and objects)
